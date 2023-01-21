@@ -18,5 +18,5 @@ Stored in ```CitiesDistances.json```.
 * **Gson** for reading the JSON file, any other JSON reader library can be used.
 * **JXMapViewer** for displaying the map and mapping coordinates to screen pixels.
 ## Example
-The following run shows the search for trip from "القريات" to "بقيق" on the lowest exection speed option:
+The following run shows the search for the trip from "القريات" to "بقيق" on the lowest exection speed option:
 ![Example](https://user-images.githubusercontent.com/122672831/213884960-a1d0b4c3-70e0-40e0-9158-6f92a5659d48.gif)
